@@ -12,7 +12,7 @@ such that all of them appear in both of the strings, possibly with other charact
  */
 import java.util.Scanner;
 
-public class Main {
+public class LongestCommonSubsequence2Strings {
 
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
